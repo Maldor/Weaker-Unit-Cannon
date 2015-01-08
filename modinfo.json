@@ -1,0 +1,18 @@
+{
+  "author": "Maldor96", 
+  "build": "73939", 
+  "category": [
+    "in-game", 
+    "server-mod",
+	"request"
+  ], 
+  "context": "server", 
+  "date": "2015/1/8", 
+  "description": "Requested by Philoscience, a weaker unit cannon", 
+  "display_name": "Unit Cannon made weaker", 
+  "enabled": true, 
+  "identifier": "com.Maldor96.Weapons.UnitCannon", 
+  "version": ".1",
+  "forum": "https://forums.uberent.com/threads/wip-maldors-mini-mods.64495/",
+  "priority": 100
+}
